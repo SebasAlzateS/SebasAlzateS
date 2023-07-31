@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián Alzate Sierra</h1>
-<h3 align="center">A passionate developer from Medellin - Colombia</h3>
+<h3 align="center">A passionate developer and Student from Medellin - Colombia</h3>
 
 - 🌱 I’m currently learning **Python,Sql,LabVIEW, etc.**
 
